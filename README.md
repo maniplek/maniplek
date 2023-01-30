@@ -9,8 +9,6 @@
 
 <h3>I am a passionate full-stack software developer who enjoys working on all kinds of tech.</h3>
 
-- I’m currently available for new job opportunities
-
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
 - 🦾 I'm a problem solver and fast learner with good communication skills
@@ -57,6 +55,6 @@
 
 
 ## What I'm doing now
-🔭 FULL-STACK at Personal Project
+🔭 FRONT-END DEVELOPER  at CodeLand S.r.l.
 
 🌱 Enhancing my full-stack developer skills everyday
