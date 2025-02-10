@@ -55,6 +55,5 @@
 
 
 ## What I'm doing now
-🔭 FRONT-END DEVELOPER  at CodeLand S.r.l.
 
 🌱 Enhancing my full-stack developer skills everyday
